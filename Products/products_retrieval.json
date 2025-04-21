@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "name": "Pure Pineapple",
+    "brand": "Calvin Klein",
+    "category": "Women",
+    "tag": "Clothing",
+    "description": "Lorem ipsum dolor sit amet, consectetur ing elit, sed do eiusmod tempor sum dolor sit amet, consectetur adipisicing elit, sed do mod tempor",
+    "price": 629.99,
+    "discount": 495,
+    "featured": true,
+    "weight": 1.3,
+    "images": [
+      "product-1.jpg",
+      "product-1-1.jpg",
+      "product-1-2.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 5
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 5
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 5
+      },
+      {
+        "color": "blue",
+        "size": "XS",
+        "qty": 5
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 0
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 0
+      }
+    ],
+    "comments": [
+      {
+        "user": "Brandon Kelley",
+        "email": "BrandonKelley@gmail.com",
+        "message": "Nice !",
+        "rating": 4
+      },
+      {
+        "user": "Roy Banks",
+        "email": "RoyBanks@gmail.com",
+        "message": "Nice !",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Guangzhou sweater",
+    "brand": "Diesel",
+    "category": "Women",
+    "tag": "Clothing",
+    "price": 35,
+    "discount": 13,
+    "featured": true,
+    "images": [
+      "product-2.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 4
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 3
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 8
+      },
+      {
+        "color": "blue",
+        "size": "Xl",
+        "qty": 7
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 3
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Guangzhou sweater",
+    "brand": "Polo",
+    "category": "Women",
+    "tag": "Clothing",
+    "price": 35,
+    "discount": 34,
+    "featured": true,
+    "images": [
+      "product-3.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 2
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 2
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 9
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 7
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 3
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Microfiber Wool Scarf",
+    "brand": "Tommy Hilfiger",
+    "category": "Men",
+    "tag": "Accessories",
+    "price": 64,
+    "discount": 35,
+    "featured": true,
+    "images": [
+      "product-4.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 3
+      },
+      {
+        "color": "red",
+        "size": "M",
+        "qty": 8
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 4
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 6
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 9
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Men's Painted Hat",
+    "brand": "Calvin Klein",
+    "category": "Kids",
+    "tag": "Accessories",
+    "price": 44,
+    "discount": 35,
+    "featured": false,
+    "images": [
+      "product-5.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 9
+      },
+      {
+        "color": "green",
+        "size": "M",
+        "qty": 7
+      },
+      {
+        "color": "red",
+        "size": "L",
+        "qty": 8
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 1
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 3
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Converse Shoes",
+    "brand": "Calvin Klein",
+    "category": "Women",
+    "tag": "Clothing",
+    "price": 35,
+    "discount": 34,
+    "featured": true,
+    "images": [
+      "product-6.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 3
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 4
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 9
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 0
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 4
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pure Pineapple",
+    "brand": "Calvin Klein",
+    "category": "Men",
+    "tag": "HandBag",
+    "price": 64,
+    "discount": 35,
+    "featured": true,
+    "images": [
+      "product-7.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 4
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 5
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 10
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 2
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 4
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "2 Layer Windbreaker",
+    "brand": "Calvin Klein",
+    "category": "Men",
+    "tag": "Clothing",
+    "price": 44,
+    "discount": 35,
+    "featured": true,
+    "images": [
+      "product-8.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 7
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 8
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 6
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 9
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 1
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Converse Shoes",
+    "brand": "Calvin Klein",
+    "category": "Men",
+    "tag": "Shoes",
+    "price": 35,
+    "discount": 34,
+    "featured": true,
+    "images": [
+      "product-9.jpg"
+    ],
+    "variants": [
+      {
+        "color": "blue",
+        "size": "S",
+        "qty": 6
+      },
+      {
+        "color": "blue",
+        "size": "M",
+        "qty": 4
+      },
+      {
+        "color": "blue",
+        "size": "L",
+        "qty": 8
+      },
+      {
+        "color": "blue",
+        "size": "XL",
+        "qty": 3
+      },
+      {
+        "color": "yellow",
+        "size": "S",
+        "qty": 5
+      },
+      {
+        "color": "violet",
+        "size": "S",
+        "qty": 4
+      }
+    ]
+  }
+]
