@@ -2,3 +2,5 @@
 !transformers
 !faiss-cpu or faiss-gpu
 !datasets
+!torch
+!wandb
