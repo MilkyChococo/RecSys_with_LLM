@@ -1,6 +1,6 @@
-!sentence-transformers
-!transformers
-!faiss-cpu or faiss-gpu
-!datasets
-!torch
-!wandb
+sentence-transformers
+transformers
+faiss-cpu or faiss-gpu
+datasets
+torch
+wandb
